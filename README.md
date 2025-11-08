@@ -1,2 +1,4 @@
 # SystemVerilog-Projects
-In this repository, I have compiled a collection of my SystemVerilog projects. These projects consist of practical applications of my learning - combining combinational and sequential logic to create functioning  systems.
+In this repository, I have compiled a collection of my SystemVerilog projects. These projects consist of practical applications of my learning - combining combinational and sequential logic, interfaced with a DE10-Lite FPGA, to create: a safe controlled by an external keypad, a calculator, and various other systems that track through my journey in SystemVerilog. 
+
+These projects challenged my understanding of logic circuits, specifically creating Finite State Machines that had synchronous and asynchronous inner workings, and how to combine these components to work in tandem. Moreover, I was challenged to communicate with an FPGA to display the results of the SystemVerilog - which taught me how to debounce buttons, write to HEX displays, and use switches as inputs to a variety of functions. 
