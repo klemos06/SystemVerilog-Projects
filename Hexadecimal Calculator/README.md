@@ -1,4 +1,6 @@
 **Overview**:
+
+
 This hexadecimal addition calculator takes in two inputs controlled by flip switches on the DE10-Lite. The inputs are displayed on four seven segment displays, two for each input, and the result of the addition is display on two more seven segment displays. 
 
 **Challenges**:
